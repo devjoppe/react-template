@@ -1,13 +1,12 @@
 
-// Import icon assets
-import reactLogo from './assets/icons/react.svg'
-import './App.css'
+// Import style
+import './assets/style/css/style.css'
 
 function App() {
 
   return (
     <div>
-        <img src={reactLogo} className="logo react" alt="React logo" />
+
     </div>
   )
 }
